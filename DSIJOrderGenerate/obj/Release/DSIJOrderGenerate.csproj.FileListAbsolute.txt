@@ -1,0 +1,9 @@
+D:\Chetan\Demo Project\DSIJOrderGenerate\DSIJOrderGenerate\bin\Release\DSIJOrderGenerate.exe.config
+D:\Chetan\Demo Project\DSIJOrderGenerate\DSIJOrderGenerate\bin\Release\DSIJOrderGenerate.exe
+D:\Chetan\Demo Project\DSIJOrderGenerate\DSIJOrderGenerate\bin\Release\DSIJOrderGenerate.pdb
+D:\Chetan\Demo Project\DSIJOrderGenerate\DSIJOrderGenerate\bin\Release\DotNetNuke.dll
+D:\Chetan\Demo Project\DSIJOrderGenerate\DSIJOrderGenerate\bin\Release\Microsoft.ApplicationBlocks.Data.dll
+D:\Chetan\Demo Project\DSIJOrderGenerate\DSIJOrderGenerate\bin\Release\Microsoft.ReportViewer.WebForms.DLL
+D:\Chetan\Demo Project\DSIJOrderGenerate\DSIJOrderGenerate\obj\Release\DSIJOrderGenerate.exe
+D:\Chetan\Demo Project\DSIJOrderGenerate\DSIJOrderGenerate\obj\Release\DSIJOrderGenerate.pdb
+D:\Chetan\Demo Project\DSIJOrderGenerate\DSIJOrderGenerate\obj\Release\DSIJOrderGenerate.csprojResolveAssemblyReference.cache
